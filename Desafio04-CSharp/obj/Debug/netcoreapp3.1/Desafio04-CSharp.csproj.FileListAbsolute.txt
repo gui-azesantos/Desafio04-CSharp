@@ -1,0 +1,11 @@
+C:\Users\GEDO\source\repos\Desafio04-CSharp\Desafio04-CSharp\bin\Debug\netcoreapp3.1\Desafio04-CSharp.exe
+C:\Users\GEDO\source\repos\Desafio04-CSharp\Desafio04-CSharp\bin\Debug\netcoreapp3.1\Desafio04-CSharp.deps.json
+C:\Users\GEDO\source\repos\Desafio04-CSharp\Desafio04-CSharp\bin\Debug\netcoreapp3.1\Desafio04-CSharp.runtimeconfig.json
+C:\Users\GEDO\source\repos\Desafio04-CSharp\Desafio04-CSharp\bin\Debug\netcoreapp3.1\Desafio04-CSharp.runtimeconfig.dev.json
+C:\Users\GEDO\source\repos\Desafio04-CSharp\Desafio04-CSharp\bin\Debug\netcoreapp3.1\Desafio04-CSharp.dll
+C:\Users\GEDO\source\repos\Desafio04-CSharp\Desafio04-CSharp\bin\Debug\netcoreapp3.1\Desafio04-CSharp.pdb
+C:\Users\GEDO\source\repos\Desafio04-CSharp\Desafio04-CSharp\obj\Debug\netcoreapp3.1\Desafio04-CSharp.csprojAssemblyReference.cache
+C:\Users\GEDO\source\repos\Desafio04-CSharp\Desafio04-CSharp\obj\Debug\netcoreapp3.1\Desafio04-CSharp.AssemblyInfoInputs.cache
+C:\Users\GEDO\source\repos\Desafio04-CSharp\Desafio04-CSharp\obj\Debug\netcoreapp3.1\Desafio04-CSharp.AssemblyInfo.cs
+C:\Users\GEDO\source\repos\Desafio04-CSharp\Desafio04-CSharp\obj\Debug\netcoreapp3.1\Desafio04-CSharp.dll
+C:\Users\GEDO\source\repos\Desafio04-CSharp\Desafio04-CSharp\obj\Debug\netcoreapp3.1\Desafio04-CSharp.pdb
